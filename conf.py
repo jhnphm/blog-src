@@ -243,7 +243,7 @@ COMPILERS = {
 
 DEPLOY_COMMANDS = ["rm -rf ~/src/jhnphm.github.io/*",
                     "rsync -rav output/ ~/src/jhnphm.github.io/",
-                           "~/src/jhnphm.github.io/nikola-deploy"]
+                     "~/src/jhnphm.github.io/deploy.sh"]
 
 
 # Where the output site should be located
