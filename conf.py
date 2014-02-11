@@ -327,6 +327,7 @@ DEPLOY_COMMANDS = ["rm -rf ~/src/jhnphm.github.io/*",
                              # the main (the newest) index page (index.html)
 
 # Name of the theme to use.
+#THEME = "oldfashioned"
 THEME = "monospace"
 
 # Color scheme to be used for code blocks. If your theme provides
