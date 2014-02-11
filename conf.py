@@ -10,7 +10,7 @@ BLOG_AUTHOR = "John Pham"
 BLOG_TITLE = "Soldering Fumes"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://jhnphm.github.io"
+SITE_URL = "http://jhnphm.github.io/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
@@ -491,6 +491,7 @@ COMMENT_SYSTEM_ID = ""
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
+SOCIAL_BUTTONS_CODE = ""
 # SOCIAL_BUTTONS_CODE = """
 # <!-- Social buttons -->
 # <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
